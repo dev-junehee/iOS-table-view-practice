@@ -13,4 +13,4 @@
 ## 연습 구현 화면
 | **아이폰 설정 - 집중 모드**<br />)(라이트 모드) | **아이폰 설정 - 집중 모드**<br />)(다크 모드) |
 |:------:|:------:|
-| <img width="300" src="https://github.com/dev-junehee/iOS-table-view-practice/assets/116873887/23da435f-f466-47af-aa5b-354a91f2c25b"> | <img width="300" src="https://github.com/dev-junehee/iOS-table-view-practice/assets/116873887/0002a5a3-699d-4de6-a1bf-6fd6423d8a4e"> |
+| <img width="300" src="https://github.com/dev-junehee/iOS-table-view-practice/assets/116873887/6cb728ef-2cb0-4cc2-a166-f0bcc3a655d5"> | <img width="300" src="https://github.com/dev-junehee/iOS-table-view-practice/assets/116873887/d8925414-a400-449f-8283-640690e68d14"> |
