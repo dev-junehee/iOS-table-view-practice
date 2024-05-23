@@ -14,6 +14,7 @@
 		C41EB6EF2BFF2A5E00C656B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C41EB6EE2BFF2A5E00C656B0 /* Assets.xcassets */; };
 		C41EB6F22BFF2A5E00C656B0 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = C41EB6F12BFF2A5E00C656B0 /* Base */; };
 		C4D006D62BFF3666009C49BB /* SettingTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D006D52BFF3666009C49BB /* SettingTableViewController.swift */; };
+		C4D006D82BFF8DD1009C49BB /* ShoppingTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D006D72BFF8DD1009C49BB /* ShoppingTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		C41EB6F32BFF2A5E00C656B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C41EB6F92BFF2B3200C656B0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		C4D006D52BFF3666009C49BB /* SettingTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingTableViewController.swift; sourceTree = "<group>"; };
+		C4D006D72BFF8DD1009C49BB /* ShoppingTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				C41EB6F02BFF2A5E00C656B0 /* LaunchScreen.storyboard */,
 				C41EB6F32BFF2A5E00C656B0 /* Info.plist */,
 				C4D006D52BFF3666009C49BB /* SettingTableViewController.swift */,
+				C4D006D72BFF8DD1009C49BB /* ShoppingTableViewController.swift */,
 			);
 			path = "iOS-table-view-practice";
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 				C4D006D62BFF3666009C49BB /* SettingTableViewController.swift in Sources */,
 				C41EB6EA2BFF2A5D00C656B0 /* ViewController.swift in Sources */,
 				C41EB6E62BFF2A5D00C656B0 /* AppDelegate.swift in Sources */,
+				C4D006D82BFF8DD1009C49BB /* ShoppingTableViewController.swift in Sources */,
 				C41EB6E82BFF2A5D00C656B0 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

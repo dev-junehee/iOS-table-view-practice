@@ -13,8 +13,14 @@
     - heightForRowAt
     - cellForRowAt
 
-<br />
+## To-do
+### Case3
+- [ ] Header
+    - [x] 화면 스크롤 시 키보드 내려가기 (Dismiss on Drag)
+- [ ] TableView
+    - [ ] 이미지 
 
+<br />
 
 ## 연습 구현 화면
 | **아이폰 - 집중 모드**<br />(라이트 모드) | **아이폰 - 집중 모드**<br />(다크 모드) |
